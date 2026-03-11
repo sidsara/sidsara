@@ -1,18 +1,7 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FFB6C1"/>
-      <stop offset="50%" style="stop-color:#FF69B4"/>
-      <stop offset="100%" style="stop-color:#C71585"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#grad)" rx="0"/>
-  <path d="M0,140 C150,100 300,170 450,130 C600,90 750,160 900,120 L900,200 L0,200 Z" fill="rgba(255,255,255,0.15)"/>
-  <text x="450" y="95" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle">SID LAKHDAR Sara</text>
-  <text x="450" y="135" font-family="Georgia, serif" font-size="16" fill="white" text-anchor="middle" opacity="0.9">3CS @ ESI SBA · AI &amp; Data Science</text>
-</svg>
+<!-- Rose header (capsule-render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,50:FF69B4,100:FFB6C1&height=180&section=header&text=SID%20LAKHDAR%20Sara&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="header" />
 
 ---
 
@@ -69,6 +58,7 @@
 
 *💗 Fun fact: It's better not to come near me when I'm coding.*
 
-</div>
+<!-- Rose footer (capsule-render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,50:FF69B4,100:FFB6C1&height=120&section=footer" width="100%" alt="footer" />
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C71585,50:FF69B4,100:FFB6C1&height=120&section=footer)](https://github.com/sidsara)
+</div>
