@@ -1,6 +1,18 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:C71585&height=200&section=header&text=SID%20LAKHDAR%20Sara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3CS%20%40%20ESI%20SBA%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=16&descColor=fff)](https://github.com/sidsara)
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFB6C1"/>
+      <stop offset="50%" style="stop-color:#FF69B4"/>
+      <stop offset="100%" style="stop-color:#C71585"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#grad)" rx="0"/>
+  <path d="M0,140 C150,100 300,170 450,130 C600,90 750,160 900,120 L900,200 L0,200 Z" fill="rgba(255,255,255,0.15)"/>
+  <text x="450" y="95" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle">SID LAKHDAR Sara</text>
+  <text x="450" y="135" font-family="Georgia, serif" font-size="16" fill="white" text-anchor="middle" opacity="0.9">3CS @ ESI SBA · AI &amp; Data Science</text>
+</svg>
 
 ---
 
