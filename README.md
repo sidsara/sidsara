@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:C71585&height=200&section=header&text=SID%20LAKHDAR%20Sara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3CS%20%40%20ESI%20SBA%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=16&descColor=fff" width="100%"/>
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:C71585&height=200&section=header&text=SID%20LAKHDAR%20Sara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3CS%20%40%20ESI%20SBA%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=16&descColor=fff)](https://github.com/sidsara)
 
 ---
 
@@ -59,5 +59,4 @@
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,50:FF69B4,100:FFB6C1&height=120&section=footer" width="100%"/>
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C71585,50:FF69B4,100:FFB6C1&height=120&section=footer)](https://github.com/sidsara)
