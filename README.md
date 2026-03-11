@@ -19,9 +19,8 @@
 
 -  **School** — École Supérieure en Informatique 8 Mai 1945, Sidi Bel-Abbès
 -  **Major** — Artificial Intelligence & Data Science *(AISD)*
--  **Currently working on** — Recommendation systems & IoT-connected apps
--  **Always exploring** — Computer Vision, NLP, and scalable backends
--  **Driven by** — Building real solutions, not just running notebooks
+-  **Always exploring** — Computer Vision, NLP, Everything related to AI...
+-  **Coding time** — When Cinderella's magic ends, mine begins ✨
 
 ---
 
@@ -56,7 +55,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=sidsara&color=ff69b4&style=flat-square)](https://github.com/sidsara)
 
-*💗 Fun fact: It's better not to come near me when I'm coding.*
+*💗 Friendly warning: It's better not to come near me when I'm coding.*
 
 <!-- Rose footer (capsule-render) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71585,50:FF69B4,100:FFB6C1&height=120&section=footer" width="100%" alt="footer" />
