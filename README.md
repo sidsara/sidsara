@@ -5,9 +5,9 @@
 
 ---
 
-### 🎓 2CS Student @ ESI SBA · Spécialité AISD
+### 🧚🏻‍♀️ 2CS Student @ ESI SBA · Spécialité AISD
 
-### 💡 Turning data into decisions & ideas into systems
+### 💕 Turning data into decisions & ideas into systems
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌸 About Me
+## 🩷 About Me
 
 -  **School** — École Supérieure en Informatique 8 Mai 1945, Sidi Bel-Abbès
 -  **Major** — Artificial Intelligence & Data Science *(AISD)*
@@ -25,7 +25,7 @@
 
 ---
 
-## ✨ Tech Stack
+## 🦋 Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
@@ -42,7 +42,7 @@
 
 ---
 
-## 🩷 GitHub Stats
+## 🌸 GitHub Stats
 
 [![Sara's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidsara&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
