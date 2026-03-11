@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sidsara/sidsara/main/photo.png" width="130" style="border-radius: 50%;"/>
-
-<br/>
-
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=header&text=SID%20LAKHDAR%20Sara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45&desc=3CS%20%40%20ESI%20SBA%20%7C%20AI%20%26%20Data%20Science&descAlignY=68&descSize=18)](https://github.com/sidsara)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=200&section=header&text=SID%20LAKHDAR%20Sara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=3CS%20%40%20ESI%20SBA%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descSize=16&descColor=ffd6ec)](https://github.com/sidsara)
 
 ---
 
